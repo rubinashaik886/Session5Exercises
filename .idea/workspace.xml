@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffd9b2a2-c02b-4997-96e6-258614463d29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AgeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AgeValidity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChkOddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringEquality.java" afterDir="false" />
+    <list default="true" id="ffd9b2a2-c02b-4997-96e6-258614463d29" name="Changes" comment="session 5 exercises">
+      <change afterPath="$PROJECT_DIR$/src/ColorRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComputeFare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficLightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficLightSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WatchMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +26,29 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_AgeCheck.zip/AgeCheck.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_ChkOddEven.zip/ChkOddEven.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_ColorRange.zip/ColorRange.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_ComputeFare.zip/ComputeFare.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Countdown.zip/Countdown.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_StringEquality.zip/StringEquality.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_SwitchEx1.zip/SwitchEx1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_SwitchEx2.zip/SwitchEx2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_TernaryOperator (1).zip/TernaryOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_TernaryOperator.zip/TernaryOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_TrafficLightChecker.zip/TrafficLightChecker.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_TrafficLightSwitch.zip/TrafficLightSwitch.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_WatchMovie.zip/WatchMovie.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/AgeCheck.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/AgeValidity.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ChkOddEven.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ColorRange.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ComputeFare.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/StringEquality.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SwitchEx1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SwitchEx2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TernaryOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrafficLightChecker.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrafficLightSwitch.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/WatchMovie.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661183779105</updated>
     </task>
+    <task id="LOCAL-00001" summary="session 5 exercises">
+      <created>1661187594548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661187594548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="session 5 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="session 5 exercises" />
   </component>
 </project>
